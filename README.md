@@ -2,23 +2,9 @@
 I'm Hongwei, currently a Master of Computer Science student  
   
 
-<p align="center">
-  <a href="https://github.com/Hongwei-Z">
-    <img src="https://badges.strrl.dev/visits/Hongwei-Z/Hongwei-Z?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Hongwei-Z">
-    <img src="https://badges.strrl.dev/years/Hongwei-Z?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Hongwei-Z?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/Hongwei-Z?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/Hongwei-Z">
-    <img src="https://badges.strrl.dev/gists/Hongwei-Z?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Hongwei-Z">
-    <img src="https://badges.strrl.dev/commits/monthly/Hongwei-Z?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+
+
+
 
 ## Most Used Languages    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongwei-Z&layout=compact)](https://github.com/Christmas/github-readme-stats)
