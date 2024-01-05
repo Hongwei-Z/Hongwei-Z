@@ -1,18 +1,35 @@
 ## Welcome to my GitHub page
-I'm Hongwei, currently a Master of Computer Science student  
-  
+I'm Hongwei, currently a Master of Computer Science student ...
 
-
-
-
-
-## Most Used Languages    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongwei-Z&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
 <br/>  
 
+## Recent Projects  
+<a href="https://github.com/Hongwei-Z/SC-MLIDS">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=SC-MLIDS" />
+</a>
+<a href="https://github.com/Hongwei-Z/FishingNetTopology">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=FishingNetTopology" />
+</a>
+<a href="https://github.com/Hongwei-Z/Federated-Random-Forest">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=Federated-Random-Forest" />
+</a>
+<a href="https://github.com/Hongwei-Z/SDN_FL_IoT_DDoS">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=SDN_FL_IoT_DDoS" />
+</a>
+
+<br/> 
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Hongwei-Z&count_private=true&show_icons=true&include_all_commits=true" align="left" style="height: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongwei-Z&layout=compact&hide=html,css,shell" align="left" style="height: 100%" />
+</td></tr></table>  
+
+<br/> 
+
 ## My Skill Set  
- 
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -27,15 +44,7 @@ I'm Hongwei, currently a Master of Computer Science student
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-  
 </div>
-
-<br/>  
-
-
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Hongwei-Z&show_icons=true&count_private=true&theme=holi" align="center" /></div>  
-
 
 <br/>  
 
