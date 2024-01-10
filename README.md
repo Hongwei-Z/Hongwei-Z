@@ -1,11 +1,9 @@
-## Welcome to my GitHub page
-I'm Hongwei, currently a Master of Computer Science student ...
+## Welcome  
+I'm Hongwei, a computer science student ...
 
-[](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 <br/>  
 
 ## Recent Projects  
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=SC-MLIDS&theme=maroongold)](https://github.com/Hongwei-Z/SC-MLIDS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=FishingNetTopology&theme=maroongold)](https://github.com/Hongwei-Z/FishingNetTopology)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=Federated-Random-Forest&theme=maroongold)](https://github.com/Hongwei-Z/Federated-Random-Forest)
@@ -15,14 +13,12 @@ I'm Hongwei, currently a Master of Computer Science student ...
 <br/> 
 
 ## Github Stats  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongwei-Z&layout=donut&hide=jupyter%20notebook,dockerfile,ruby,batchfile&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-![Hongwei-Z's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hongwei-Z&theme=codeSTACKr&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongwei-Z&layout=donut&hide=jupyter%20notebook&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+![Hongwei-Z's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hongwei-Z&theme=codeSTACKr&show_icons=true&&rank_icon=github)
 
 <br/> 
 
-
-## My Skill Set  
+## Skills  
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -36,7 +32,6 @@ I'm Hongwei, currently a Master of Computer Science student ...
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
 <br/>  
