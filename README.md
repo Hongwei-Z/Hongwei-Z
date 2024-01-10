@@ -1,33 +1,26 @@
 ## Welcome to my GitHub page
 I'm Hongwei, currently a Master of Computer Science student ...
 
-
+[](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 <br/>  
 
 ## Recent Projects  
-<a href="https://github.com/Hongwei-Z/SC-MLIDS">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=SC-MLIDS" />
-</a>
-<a href="https://github.com/Hongwei-Z/FishingNetTopology">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=FishingNetTopology" />
-</a>
-<a href="https://github.com/Hongwei-Z/Federated-Random-Forest">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=Federated-Random-Forest" />
-</a>
-<a href="https://github.com/Hongwei-Z/SDN_FL_IoT_DDoS">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=SDN_FL_IoT_DDoS" />
-</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=SC-MLIDS&theme=maroongold)](https://github.com/Hongwei-Z/SC-MLIDS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=FishingNetTopology&theme=maroongold)](https://github.com/Hongwei-Z/FishingNetTopology)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=Federated-Random-Forest&theme=maroongold)](https://github.com/Hongwei-Z/Federated-Random-Forest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=SDN_FL_IoT_DDoS&theme=maroongold)](https://github.com/Hongwei-Z/SDN_FL_IoT_DDoS)
+
 
 <br/> 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Hongwei-Z&count_private=true&show_icons=true&include_all_commits=true" align="left" style="height: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongwei-Z&layout=compact&hide=html,css,shell" align="left" style="height: 100%" />
-</td></tr></table>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongwei-Z&layout=donut&hide=jupyter%20notebook,dockerfile,ruby,batchfile&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+![Hongwei-Z's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hongwei-Z&theme=codeSTACKr&show_icons=true)
 
 <br/> 
+
 
 ## My Skill Set  
 <div align="left">  
@@ -48,9 +41,6 @@ I'm Hongwei, currently a Master of Computer Science student ...
 
 <br/>  
 
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=Hongwei-Z&&style=flat-square)  
   
-
-
-
-
