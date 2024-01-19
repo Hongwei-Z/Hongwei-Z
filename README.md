@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hongwei-Z](https://github.com/Hongwei-Z)
 
-- 📫 How to reach me **hwz0406@gmail.com**
+- 📫 How to reach me **zhw@dal.ca**
 
 <br/>  
 
