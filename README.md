@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on IoT security research
 
-- 🌱 I’m currently learning ML/DL
+- 🌱 I’m currently learning Machine Learning, Federated Learning.
 
 [//]: <> (- 👯 I’m looking to collaborate on **0**)
 
@@ -16,6 +16,8 @@
 <br/>  
 
 ### Recent Projects:  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=Federated-Learning-IoT-IDS&theme=maroongold)](https://github.com/Hongwei-Z/Federated-Learning-IoT-IDS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=CNN-LSTM-IoMT-IDS&theme=maroongold)](https://github.com/Hongwei-Z/CNN-LSTM-IoMT-IDS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=SC-MLIDS&theme=maroongold)](https://github.com/Hongwei-Z/SC-MLIDS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=FishingNetTopology&theme=maroongold)](https://github.com/Hongwei-Z/FishingNetTopology)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hongwei-Z&repo=Federated-Random-Forest&theme=maroongold)](https://github.com/Hongwei-Z/Federated-Random-Forest)
@@ -47,6 +49,5 @@
 
 <br/>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hongwei-z&" alt="hongwei-z" /></p>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Hongwei-Z&&style=flat-square)  
